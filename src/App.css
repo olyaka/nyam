@@ -176,6 +176,7 @@
   width: 100%;
   height: calc(100% - 41px);
   bottom: 0;
+  z-index: 99999;
 }
 .item:not(.disabled):hover .overlay:before,
 .disabled .overlay:before {

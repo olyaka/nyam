@@ -70,9 +70,12 @@ class Product extends Component {
     this.updateCanvas();
   }
   updateCanvas() {
+    debugger;
     const ctx = this.refs.canvas.getContext("2d");
     ctx.fillStyle = "rgb(242, 242, 242)";
-    ctx.strokeStyle = "rgb(22, 152, 217)";
+    this.state.status === "default"
+      ? (ctx.strokeStyle = "rgb(22, 152, 217)")
+      : (ctx.strokeStyle = "#b3b3b3");
     ctx.lineWidth = 6;
     ctx.beginPath();
     ctx.moveTo(0, 45);
