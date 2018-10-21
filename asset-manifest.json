@@ -1,15 +1,15 @@
 {
-  "main.css": "/nyam/static/css/main.fbad1b25.chunk.css",
-  "main.js": "/nyam/static/js/main.cf015c59.chunk.js",
-  "main.js.map": "/nyam/static/js/main.cf015c59.chunk.js.map",
+  "main.css": "/nyam/static/css/main.b9e1d5c1.chunk.css",
+  "main.js": "/nyam/static/js/main.90a54d86.chunk.js",
+  "main.js.map": "/nyam/static/js/main.90a54d86.chunk.js.map",
   "static/js/1.ccf717e8.chunk.js": "/nyam/static/js/1.ccf717e8.chunk.js",
   "static/js/1.ccf717e8.chunk.js.map": "/nyam/static/js/1.ccf717e8.chunk.js.map",
   "runtime~main.js": "/nyam/static/js/runtime~main.3661e97d.js",
   "runtime~main.js.map": "/nyam/static/js/runtime~main.3661e97d.js.map",
-  "static/css/main.fbad1b25.chunk.css.map": "/nyam/static/css/main.fbad1b25.chunk.css.map",
+  "static/css/main.b9e1d5c1.chunk.css.map": "/nyam/static/css/main.b9e1d5c1.chunk.css.map",
   "static/media/logo.svg": "/nyam/static/media/logo.5d5d9eef.svg",
   "static/media/App.css": "/nyam/static/media/Cat.ef1c6577.png",
   "index.html": "/nyam/index.html",
-  "precache-manifest.a852460202bd3220803cf91f0a0c0c2d.js": "/nyam/precache-manifest.a852460202bd3220803cf91f0a0c0c2d.js",
+  "precache-manifest.51dec395de57a3ea30e36993191fbb5c.js": "/nyam/precache-manifest.51dec395de57a3ea30e36993191fbb5c.js",
   "service-worker.js": "/nyam/service-worker.js"
 }

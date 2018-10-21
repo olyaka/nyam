@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/nyam/static/js/runtime~main.3661e97d.js"
   },
   {
-    "revision": "cf015c596ea821472ab6",
-    "url": "/nyam/static/js/main.cf015c59.chunk.js"
+    "revision": "90a54d867b8978dee110",
+    "url": "/nyam/static/js/main.90a54d86.chunk.js"
   },
   {
     "revision": "ccf717e8f1c052517a1a",
     "url": "/nyam/static/js/1.ccf717e8.chunk.js"
   },
   {
-    "revision": "cf015c596ea821472ab6",
-    "url": "/nyam/static/css/main.fbad1b25.chunk.css"
+    "revision": "90a54d867b8978dee110",
+    "url": "/nyam/static/css/main.b9e1d5c1.chunk.css"
   },
   {
-    "revision": "29657202a75a21e608f901deccdb50d4",
+    "revision": "c581a34e1cb374ce9b6f73e9680cd1eb",
     "url": "/nyam/index.html"
   }
 ];
