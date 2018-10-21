@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/nyam/static/css/main.fbad1b25.chunk.css"
   },
   {
-    "revision": "e6b38e38956efdb6525d02f62ba2e5ed",
+    "revision": "29657202a75a21e608f901deccdb50d4",
     "url": "/nyam/index.html"
   }
 ];
